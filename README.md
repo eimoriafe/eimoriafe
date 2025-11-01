@@ -29,7 +29,7 @@ I specialize in **secure cloud systems, DevOps automation, and network architect
 ## 💼 Core Competencies  
 
 `Cybersecurity Engineering` • `DevOps (CI/CD, Ansible)` • `Cloud (Azure, AWS)` •  
-`Cisco Meraki Networks` • `IT Governance (PMP, ITIL)` • `Automation (Bash, PowerShell)` •  
+`Cisco Meraki Networks` • `IT Governance (PMP, ITIL)` • `Automation (Ansible, PowerShell)` •  
 `Incident Response` • `Vulnerability Management` • `Digital Transformation Strategy`
 
 ---
