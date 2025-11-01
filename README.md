@@ -50,20 +50,6 @@ I specialize in **secure cloud systems, DevOps automation, and network architect
 [![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=flat-square&logo=amazon-aws)](#)
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Imoriafe&show_icons=true&theme=tokyonight" alt="Emmanuel's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Imoriafe&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Imoriafe&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Imoriafe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emmanuel-imoriafe)  
@@ -72,12 +58,4 @@ I specialize in **secure cloud systems, DevOps automation, and network architect
 
 ---
 
-> *"I build technology that strengthens trust, resilience, and transformation — from humanitarian systems to global enterprises."*  
-> — **Emmanuel E. Imoriafe**
-
----
-
-
-
-- ⚡ Fun fact: ...
--->
+> *"I build technology that strengthens trust, resilience, and transformation — from humanitarian systems to global businesses."*  
