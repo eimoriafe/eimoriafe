@@ -9,7 +9,7 @@ I specialize in **secure cloud systems, DevOps automation, and network architect
 
 ## 🚀 About Me  
 
-- 🧩 **DevOps/Cybersecurity Lead** at *International Organization for Migration, Nigeria*  
+- 🧩 **DevOps/Cybersecurity Lead** hired as Senior IT Assistant at *International Organization for Migration, Nigeria*  
 - 🏗️ Architect of **high-availability Cisco Meraki networks** with 99% uptime across dual-site and multi-country deployments  
 - ☁️ Builder of **custom cloud platforms** improving service delivery to est. 50,000+ clients annually  
 - 🛡️ Implementer of **NIST-aligned cybersecurity frameworks** for secure, compliant operations  
