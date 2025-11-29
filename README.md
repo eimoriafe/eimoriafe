@@ -54,7 +54,7 @@ I specialize in **secure cloud systems, DevOps automation, and network architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Imoriafe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emmanuel-imoriafe)  
 [![GitHub](https://img.shields.io/badge/GitHub-Emmanuel--Imoriafe-black?style=for-the-badge&logo=github)](https://github.com/Emmanuel-Imoriafe)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-lightgrey?style=for-the-badge&logo=gmail)](mailto:emmanuel.imoriafe@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-lightgrey?style=for-the-badge&logo=gmail)](mailto:e.imoriafe@outlook.com)
 
 ---
 
