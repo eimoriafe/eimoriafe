@@ -1,8 +1,8 @@
 <!-- 👋 Profile Introduction -->
 # 👋 Hi, I'm Emmanuel E. Imoriafe  
-### 🧠 International Development Expert | Cybersecurity & DevOps Engineer | Digital Transformation Strategist  
+### 🧠 Senior IT Professional | Cybersecurity & DevOps Engineer | Digital Transformation Strategist  
 
-🌍 Nigeria — with over **15 years of experience** leading IT infrastructure, cybersecurity, and digital transformation across **UN, USAID, and global enterprise environments**.  
+🌍 Nigeria — with over **10 years of experience** leading IT infrastructure, cybersecurity, and digital transformation across **UN, USAID, and global enterprise environments**.  
 I specialize in **secure cloud systems, DevOps automation, and network architecture** that scale across multi-country operations and critical businesses.
 
 ---
