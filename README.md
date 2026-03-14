@@ -13,7 +13,7 @@ I specialize in **secure cloud systems, DevOps automation, and network architect
 - 🏗️ Architect of **high-availability Cisco, Ubiquiti, Sophos and Meraki networks** with 99% uptime across dual-site and multi-country deployments  
 - ☁️ Builder of **custom cloud platforms** improving service delivery to est. 50,000+ clients annually  
 - 🛡️ Implementer of **NIST-aligned cybersecurity frameworks** for secure, compliant operations  
-- ⚙️ Champion of automation — reducing manual IT workloads by over 70% using Ansible & Powershell  
+- ⚙️ Champion of automation — reducing manual IT workloads by over 70% using Ansible, Powershell & Bash.  
 
 ---
 
