@@ -6,10 +6,7 @@
 
 
 ## Accessing Weak Password Vulnerabilities through Penetration Testing.
-ECCU Research paper submitted to Dr Joseph Issa
-ECCU 506: Conducting Penetration and Security Tests
-Dr. Joseph Issa
-May 9, 2024
+ECCU MSc Research paper that was submitted. 
 
 
 1.	Introduction
