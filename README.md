@@ -1,6 +1,6 @@
 <!-- 👋 Profile Introduction -->
 # 👋 Hi, I'm Emmanuel E. Imoriafe  
-### 🧠 Senior IT Professional | Cybersecurity & DevOps Engineer | Digital Transformation Strategist  
+### 🧠 Senior IT Professional | Cybersecurity Engineer | Digital Transformation Strategist  
 
 🌍 Nigeria — with over **10 years of experience** leading IT infrastructure, cybersecurity, and digital transformation across **UN, USAID, and global enterprise environments**.  
 I specialize in **secure cloud systems, DevOps automation, and network architecture** that scale across multi-country operations and critical businesses.
@@ -9,11 +9,11 @@ I specialize in **secure cloud systems, DevOps automation, and network architect
 
 ## 🚀 About Me  
 
-- 🧩 **DevOps/Cybersecurity Lead** hired as Senior IT Assistant at *International Organization for Migration, Nigeria*  
+- 🧩 **DevOps/Cybersecurity Lead** hired as Senior ICT at *International Organization for Migration, Nigeria*  
 - 🏗️ Architect of **high-availability Cisco, Ubiquiti, Sophos and Meraki networks** with 99% uptime across dual-site and multi-country deployments  
 - ☁️ Builder of **custom cloud platforms** improving service delivery to est. 50,000+ clients annually  
 - 🛡️ Implementer of **NIST-aligned cybersecurity frameworks** for secure, compliant operations  
-- ⚙️ Champion of automation — reducing manual IT workloads by over 70% using Ansible, Powershell & Bash.  
+- ⚙️ Champion of automation — reducing manual IT workloads by over 70% using Automate, Powershell & Bash.  
 
 ---
 
@@ -29,7 +29,7 @@ I specialize in **secure cloud systems, DevOps automation, and network architect
 ## 💼 Core Competencies  
 
 `Cybersecurity Engineering` • `DevOps (CI/CD, Ansible)` • `Cloud (Azure, AWS)` •  
-`Cisco Meraki Networks` • `IT Governance (PMP, ITIL)` • `Automation (Ansible, PowerShell)` •  
+`Cisco Meraki Networks` • `IT Governance (PMP, ITIL)` • `Automation (Ansible, Power Automate, PowerShell)` •  
 `Incident Response` • `Vulnerability Management` • `Digital Transformation Strategy`
 
 ---
